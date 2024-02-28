@@ -80,6 +80,7 @@
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) Guides, papers, lecture, notebooks and resources for prompt engineering
 - [提示工程指南](https://www.promptingguide.ai/zh)
 - [prompt提示词100条](https://pan.baidu.com/s/1tj4xJD2PJqCRxZlwVkOdDQ?pwd=9c4i) 提取码: 9c4i
+- [prompt提示词140条](https://pan.baidu.com/s/1QcTZPMVxTC8scriJbhfPOw?pwd=2gru) 提取码: 2gru
 
 ## 充当 Linux 终端
 
