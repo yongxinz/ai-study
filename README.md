@@ -2,6 +2,7 @@
 
 全网最全人工智能学习资料，包含机器学习基础ML、深度学习基础DL、计算机视觉CV、自然语言处理NLP、推荐系统、语音识别、图神经网路、算法工程师面试题，AI产品，AI工具，prompt使用
 
+- [AI 工具集](#tools)
 - [机器学习基础](#ml)
 - [深度学习基础](#dl)
 - [计算机视觉](#cv)
@@ -11,6 +12,11 @@
 - [推荐系统](#rs)
 - [面试资料](#interview)
 - [Prompt](#prompt)
+
+# <a id="tools"/>AI 工具集
+
+- [Navi AI 导航](https://www.naviai.cn/)
+- [AI Bot](https://ai-bot.cn/)
 
 # <a id="ml"/>机器学习基础
 
@@ -81,6 +87,7 @@
 - [提示工程指南](https://www.promptingguide.ai/zh)
 - [prompt提示词100条](https://pan.baidu.com/s/1tj4xJD2PJqCRxZlwVkOdDQ?pwd=9c4i) 提取码: 9c4i
 - [prompt提示词140条](https://pan.baidu.com/s/1QcTZPMVxTC8scriJbhfPOw?pwd=2gru) 提取码: 2gru
+- [在线提示词库](https://www.aishort.top/)
 
 ## 充当 Linux 终端
 
